@@ -1,5 +1,5 @@
 clifford = dog.new
-clifford.name = 'fido'
+clifford.name = clifford
 
 clifford.bark
 puts "woof!"
